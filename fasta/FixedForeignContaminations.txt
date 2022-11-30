@@ -1,0 +1,39 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB12337333	PRJNA489772	SAMN10147922	Euschistus heros
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+sequences that need to be trimmed and/or excluded. 
+
+We were able to remove sequences marked to exclude and/or trimmed contamination 
+from the ends of sequence (see the FixedForeignContaminations.txt file). If the 
+contamination is on either side of a run of N's, the N's were also removed.
+We have uploaded the modified fasta file ForeignContaminationModified.zip to the 
+submission portal.
+
+However, we could not remove the contamination in the RemainingContamination.txt file.  
+We cannot remove contamination that is in the middle of a sequence. The sequence may need
+to be split at the contamination and the sequence on either side of the contamination submitted 
+as a separate sequence. In addition, we do not automatically remove mitochondrial 
+sequences in eukaryotic submissions. 
+
+Please adjust these remaining sequences appropriately and then resubmit.  After you 
+remove the contamination, trim any Ns at the ends of the sequence and remove any sequences 
+that are shorter than 200 nt and not part of a multi-component scaffold.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+
+The contamination that was removed automatically is listed below:
+
+File [SB_ver2_202200000000.sqn]
+
+Trim:
+Sequence name, length, span(s), apparent source
+Backbone_2218	8935	1..2503,5447..5498,5951..5985,7691..7845	Arachis duranensis
+
+--------------------------------------------------------------------------------
+

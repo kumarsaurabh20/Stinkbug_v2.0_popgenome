@@ -1,0 +1,11 @@
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T BALE13 BALE13 BALE13.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T BASD31 BASD31 BASD31.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T GOPB22 GOPB22 GOPB22.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T MTR39 MTR39 MTR39.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T PIB7 PIB7 PIB7.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T PRC34 PRC34 PRC34.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T PRIV32 PRIV32 PRIV32.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T PRQS37 PRQS37 PRQS37.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T ROC31 ROC31 ROC31.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T RSSB33 RSSB33 RSSB33.psmc
+/nobackup/beegfs/workspace/ks575/Data/Myzus/Myzus_mapping/Trimmed_Resequencing_Data_18_03_2019/VCF/final/filtering/PSMC/psmc/utils/psmc_plot.pl -g 0.17 -u 0.8E-8 -X 100000 -x 100 -T SPA10 SPA10 SPA10.psmc

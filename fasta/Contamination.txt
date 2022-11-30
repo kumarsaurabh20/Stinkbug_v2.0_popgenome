@@ -1,0 +1,43 @@
+SUBID     	BioProject	BioSample	Organism
+--------------------------------------------------------
+SUB12337333	PRJNA489772	SAMN10147922	Euschistus heros
+
+[] We ran your sequences through our Contamination Screen. The screen found 
+contigs that need to be trimmed and/or excluded. The results are in the 
+Contamination.txt file posted in your submission on the WGS submission portal 
+https://submit.ncbi.nlm.nih.gov/subs/genome/.  
+
+GenBank staff will automatically remove contaminants that are found to be 
+the entire sequence or at the end of a sequence, and will post the reports 
+and edited fasta file to the submission portal. Note that internal contamination 
+will not be automatically removed since the sequence may be misassembled and 
+therefore should be split at the contamination and resubmitted as separate sequences.
+In addition, we do not automatically remove mitochondrial sequences in 
+eukaryotic submissions. 
+
+If you selected the submission portal option "Do not automatically trim or 
+remove sequences identified as contamination" then you will need 
+to adjust the sequences appropriately and then resubmit your sequences. 
+After you remove the contamination, trim any Ns at the ends of the sequence 
+and remove any sequences that are shorter than 200 nt and not part of a 
+multi-component scaffold.
+
+Note that mismatches between the name of the adaptor/primer identified in the screen 
+and the sequencing technology used to generate the sequencing data should not be used 
+to discount the validity of the screen results as the adaptors/primers of many 
+different sequencing platforms share sequence similarity.
+
+
+
+Contamination Results:
+
+
+Screened 2,153 sequences, 1,311,288,680 bp.
+Note: 1 sequence with runs of Ns 10 bp or longer was split before screening.
+1 sequence with locations to mask/trim
+
+Trim:
+Sequence name, length, span(s), apparent source
+Backbone_2218	8935	1..2503,5447..5498,5951..5985,7691..7845	Arachis duranensis
+
+
